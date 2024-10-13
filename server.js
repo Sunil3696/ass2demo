@@ -3,7 +3,7 @@
  * Author: Sunil Balami
  * StudentID: 200578456
  * Date: 2024-10-13
- * Description: This is the main entry point of application. It create the server and connect itself to Mongodb
+ * Description: This is ssssthe main entry point of application. It create the server and connect itself to Mongodb
  */
 
 const express = require('express');
